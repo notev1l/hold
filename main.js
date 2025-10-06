@@ -18,4 +18,5 @@ for (let index = 1; index <= 5; index++) {
     console.log(((x1 * x2 + y1 * y2)));
     console.log(Math.sqrt(x1 ** 2 + y1 ** 2));
     console.log(Math.sqrt(x2 ** 2 + y2 ** 2));
+    console.log("GG");
 }
